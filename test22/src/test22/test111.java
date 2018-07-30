@@ -6,6 +6,7 @@ public class test111 {
 		int sum;
 		String a;
 		int avg;
+		int num;
 
 	}
 }

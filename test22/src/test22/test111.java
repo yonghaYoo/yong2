@@ -5,6 +5,7 @@ public class test111 {
 		System.out.println("wow");
 		int sum;
 		String a;
-		
+		int avg;
+
 	}
 }
